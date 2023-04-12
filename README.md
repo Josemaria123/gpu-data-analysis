@@ -1,4 +1,4 @@
-# gpu-data-analysis
+# Análisis de los precios de las GPU's en Chile
 En este proyecto veremos como varían los precios de las GPU's en Chile y realizaremos un dashboards que nos permita saber cual es la mejor opción para comprar
 
 El objetivo de este proyecto es construir un dashboard que permita visualizar datos sobre tarjetas gráficas, para monitorizar su precio y hacer comparativas entre ellas para todas las personas que quieran comprarse una tarjeta gráfica. 
