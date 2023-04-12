@@ -97,31 +97,20 @@ Como dijimos, no vamos a crear un modelo de predicción en este proyecto, sino q
 
 | Nvidia | Amd |
 | --- | --- |
-| Asus
-Colorful
-EVGA (Ya no)
-Gainward
-Galax
-Gigabyte
-Inno3D
-KFA2
-Leadtek
-Manli
-MSI
-Palit
+| Asus | ASRock
+Colorful | Asus
+EVGA (Ya no) | Biostar
+Gainward | Diamond Multimedia
+Galax | Gigabyte
+Gigabyte | HIS
+Inno3D | MSI
+KFA2 | PowerColor
+Leadtek | Sapphire
+Manli | VisionTek
+MSI | XFX
+Palit | Yeston
 PNY
-Zotac | ASRock
-Asus
-Biostar
-Diamond Multimedia
-Gigabyte
-HIS
-MSI
-PowerColor
-Sapphire
-VisionTek
-XFX
-Yeston |
+Zotac 
 
 **Qué modelos de tarjetas voy a considerar?:**
 
