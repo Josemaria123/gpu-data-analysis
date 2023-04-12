@@ -116,28 +116,18 @@ Zotac
 
 | Nvidia | AMD |
 | --- | --- |
-| GeForce RTX 3050
-GeForce RTX 3060
-GeForce RTX 3060 Ti
-GeForce RTX 3070
-GeForce RTX 3070 Ti
-GeForce RTX 3080
-GeForce RTX 3080 Ti
-GeForce RTX 3090
-GeForce RTX 3090 Ti
-GeForce RTX 4090
-GeForce RTX 4080
-GeForce RTX 4070 Ti | Radeon RX 6500 XT
-Radeon RX 6600
-Radeon RX 6600 XT
-Radeon RX 6650 XT
-Radeon RX 6700 XT
-Radeon RX 6750 XT
-Radeon RX 6800
-Radeon RX 6800 XT
-Radeon RX 6900 XT
-Radeon RX 7900 XTX
-Radeon RX 7900 XT |
+| GeForce RTX 3050 | Radeon RX 6500 XT
+GeForce RTX 3060 | Radeon RX 6600
+GeForce RTX 3060 Ti | Radeon RX 6600 XT
+GeForce RTX 3070 | Radeon RX 6650 XT
+GeForce RTX 3070 Ti | Radeon RX 6700 XT
+GeForce RTX 3080 | Radeon RX 6750 XT
+GeForce RTX 3080 Ti | Radeon RX 6800
+GeForce RTX 3090 | Radeon RX 6800 XT
+GeForce RTX 3090 Ti | Radeon RX 6900 XT
+GeForce RTX 4090 | Radeon RX 7900 XTX
+GeForce RTX 4080 | Radeon RX 7900 XT
+GeForce RTX 4070 Ti | 
 
 **Cómo voy a recolectar los datos?:** A través de la API pública de Solotodo.
 
